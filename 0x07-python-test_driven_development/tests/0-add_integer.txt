@@ -36,7 +36,7 @@ TypeError: b must be an integer
 >>> add_integer([2, 3], 15)
 Traceback (most recent call last):
 TypeError: a must be an integer
->>> add_integer(5, "Reginah")
+>>> add_integer(5, "Gideon")
 Traceback (most recent call last):
 TypeError: b must be an integer
 >>> type(add_integer(5, 9))
